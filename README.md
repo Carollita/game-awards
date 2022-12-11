@@ -23,16 +23,16 @@ Run in git terminal the command: ```./gradlew bootrun``` or run GameAwardsApplic
 
 [Game Awards Api H2 Database](http://localhost:8080/h2-console/login.jsp)
 
-![Game Awards Api Swagger UI](src\main\img\h2_database.PNG)
-![Game Awards Api Swagger UI](src\main\img\h2.PNG)
+![H2 Login](src/main/img/h2_database.PNG)
+![H2 Database](src/main/img/h2.PNG)
 
 [Collection Game Awards Api - Postman](https://drive.google.com/drive/folders/1Gxw5KMX98Et5TGYyZYqiu4p9urWruOpi)
 
-![Postman](src\main\img\postman.PNG)
+![Postman](src/main/img/postman.PNG)
 
 [Game Awards Api - Swagger](http://localhost:8080/swagger-ui/index.html)
 
-![Game Awards Api Swagger UI](src\main\img\swagger.PNG)
+![Game Awards Api Swagger UI](src/main/img/swagger.PNG)
 
 ### 🖱️ Accessing Application
 
@@ -58,5 +58,3 @@ Spring Initialzr (Gradle Project) with dependencies:
 Postman
 Swagger
 ```
-
-#### Front-end
